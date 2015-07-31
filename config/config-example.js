@@ -14,8 +14,8 @@ exports.proxyip = ['127.0.0.0/8'];
 //   The PotD will always be in the #2 slot (not #1 so it won't be a lead)
 //   in every Random Battle team.
 exports.potd = '';
-exports.superAdmins = {
-	"bailong2,Hawaii 5.0": 1
+exports.superAdmins = {bailong2
+	"bailong2": 1
 };
 
 // crash guard - write errors to log file instead of crashing
